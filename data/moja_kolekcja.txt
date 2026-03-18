@@ -1,0 +1,294 @@
+EKSPORT KOLEKCJI FILMÓW — 2025-05-26 17:16:47
+============================================================
+
+ID -> 3
+Tytuł -> Inception
+Reżyser -> Christopher Nolan
+Rok -> 2010
+Gatunek -> Sci-Fi
+Status -> watched
+Ocena -> 9
+Opis -> Science fiction thriller about dreams within dreams.
+Komentarze -> 
+  - A mind-bending masterpiece.
+Historia oglądania -> 
+  - 2022-03-14 00:00:00
+------------------------------------------------------------
+
+ID -> 17
+Tytuł -> The Matrix
+Reżyser -> Lana Wachowski, Lilly Wachowski
+Rok -> 1999
+Gatunek -> Action
+Status -> watched
+Ocena -> 10
+Opis -> A hacker discovers the nature of his reality.
+Komentarze -> 
+  - Revolutionary effects.
+  - Bullet time!
+Historia oglądania -> 
+  - 2021-11-20 00:00:00
+  - 2023-06-01 00:00:00
+------------------------------------------------------------
+
+ID -> 25
+Tytuł -> Interstellar
+Reżyser -> Christopher Nolan
+Rok -> 2014
+Gatunek -> Sci-Fi
+Status -> watched
+Ocena -> 9
+Opis -> Epic film about time, love, and black holes.
+Komentarze -> 
+Historia oglądania -> 
+  - 2020-09-10 00:00:00
+------------------------------------------------------------
+
+ID -> 49
+Tytuł -> The Dark Knight
+Reżyser -> Christopher Nolan
+Rok -> 2008
+Gatunek -> Action
+Status -> watched
+Ocena -> 10
+Opis -> Batman faces the Joker in Gotham.
+Komentarze -> 
+  - Heath Ledger was phenomenal.
+Historia oglądania -> 
+  - 2019-04-18 00:00:00
+  - 2021-12-25 00:00:00
+------------------------------------------------------------
+
+ID -> 51
+Tytuł -> Pulp Fiction
+Reżyser -> Quentin Tarantino
+Rok -> 1994
+Gatunek -> Crime
+Status -> watched
+Ocena -> 9
+Opis -> Stories interwoven in Tarantino's classic.
+Komentarze -> 
+Historia oglądania -> 
+  - 2023-02-05 00:00:00
+------------------------------------------------------------
+
+ID -> 6
+Tytuł -> Fight Club
+Reżyser -> David Fincher
+Rok -> 1999
+Gatunek -> Drama
+Status -> watched
+Ocena -> 8
+Opis -> The first rule is you don't talk about Fight Club.
+Komentarze -> 
+Historia oglądania -> 
+  - 2024-01-20 00:00:00
+------------------------------------------------------------
+
+ID -> 90
+Tytuł -> Forrest Gump
+Reżyser -> Robert Zemeckis
+Rok -> 1994
+Gatunek -> Drama
+Status -> watched
+Ocena -> 9
+Opis -> Forrest lives through major events in US history.
+Komentarze -> 
+Historia oglądania -> 
+  - 2018-05-01 00:00:00
+------------------------------------------------------------
+
+ID -> 78
+Tytuł -> The Shawshank Redemption
+Reżyser -> Frank Darabont
+Rok -> 1994
+Gatunek -> Drama
+Status -> watched
+Ocena -> 10
+Opis -> Two imprisoned men bond over the years.
+Komentarze -> 
+Historia oglądania -> 
+  - 2022-05-10 00:00:00
+------------------------------------------------------------
+
+ID -> 222
+Tytuł -> Gladiator
+Reżyser -> Ridley Scott
+Rok -> 2000
+Gatunek -> Action
+Status -> watched
+Ocena -> 8
+Opis -> A Roman general seeks revenge.
+Komentarze -> 
+Historia oglądania -> 
+  - 2023-03-08 00:00:00
+------------------------------------------------------------
+
+ID -> 30
+Tytuł -> The Lord of the Rings: The Fellowship of the Ring
+Reżyser -> Peter Jackson
+Rok -> 2001
+Gatunek -> Fantasy
+Status -> watched
+Ocena -> 10
+Opis -> A young hobbit sets out to destroy a ring.
+Komentarze -> 
+Historia oglądania -> 
+  - 2020-12-24 00:00:00
+------------------------------------------------------------
+
+ID -> 184
+Tytuł -> The Godfather
+Reżyser -> Francis Ford Coppola
+Rok -> 1972
+Gatunek -> Crime
+Status -> watched
+Ocena -> 10
+Opis -> Epic mafia family drama.
+Komentarze -> 
+Historia oglądania -> 
+  - 2022-10-10 00:00:00
+------------------------------------------------------------
+
+ID -> 44
+Tytuł -> Avatar
+Reżyser -> James Cameron
+Rok -> 2009
+Gatunek -> Sci-Fi
+Status -> unwatched
+Ocena -> Brak
+Opis -> Humans invade a lush alien world.
+Komentarze -> 
+Historia oglądania -> 
+------------------------------------------------------------
+
+ID -> 91
+Tytuł -> The Avengers
+Reżyser -> Joss Whedon
+Rok -> 2012
+Gatunek -> Action
+Status -> watched
+Ocena -> 7
+Opis -> Earth's mightiest heroes unite.
+Komentarze -> 
+Historia oglądania -> 
+  - 2022-08-15 00:00:00
+------------------------------------------------------------
+
+ID -> 11
+Tytuł -> Titanic
+Reżyser -> James Cameron
+Rok -> 1997
+Gatunek -> Drama
+Status -> watched
+Ocena -> 9
+Opis -> A love story aboard the doomed ship.
+Komentarze -> 
+Historia oglądania -> 
+  - 2019-07-11 00:00:00
+------------------------------------------------------------
+
+ID -> 102
+Tytuł -> Jurassic Park
+Reżyser -> Steven Spielberg
+Rok -> 1993
+Gatunek -> Adventure
+Status -> watched
+Ocena -> 10
+Opis -> Dinosaurs run amok in a theme park.
+Komentarze -> 
+Historia oglądania -> 
+  - 2025-05-18 13:47:00
+------------------------------------------------------------
+
+ID -> 5
+Tytuł -> The Lion King
+Reżyser -> Roger Allers, Rob Minkoff
+Rok -> 1994
+Gatunek -> Animation
+Status -> watched
+Ocena -> 8
+Opis -> Simba's journey to become king.
+Komentarze -> 
+Historia oglądania -> 
+  - 2020-06-01 00:00:00
+------------------------------------------------------------
+
+ID -> 1001
+Tytuł -> Frozen
+Reżyser -> Chris Buck, Jennifer Lee
+Rok -> 2013
+Gatunek -> Animation
+Status -> watched
+Ocena -> 7
+Opis -> Two sisters in a kingdom of ice.
+Komentarze -> 
+Historia oglądania -> 
+  - 2021-01-10 00:00:00
+------------------------------------------------------------
+
+ID -> 555
+Tytuł -> The Prestige
+Reżyser -> Christopher Nolan
+Rok -> 2006
+Gatunek -> Drama
+Status -> watched
+Ocena -> 9
+Opis -> Rival magicians obsessed with outdoing each other.
+Komentarze -> 
+Historia oglądania -> 
+  - 2023-11-03 00:00:00
+------------------------------------------------------------
+
+ID -> 300
+Tytuł -> Back to the Future
+Reżyser -> Robert Zemeckis
+Rok -> 1985
+Gatunek -> Sci-Fi
+Status -> watched
+Ocena -> 8
+Opis -> Teen travels back in time in a DeLorean.
+Komentarze -> 
+Historia oglądania -> 
+  - 2023-02-21 00:00:00
+------------------------------------------------------------
+
+ID -> 150
+Tytuł -> Star Wars: Episode IV – A New Hope
+Reżyser -> George Lucas
+Rok -> 1977
+Gatunek -> Sci-Fi
+Status -> watched
+Ocena -> 10
+Opis -> The beginning of the Star Wars saga.
+Komentarze -> 
+Historia oglądania -> 
+  - 2021-07-15 00:00:00
+------------------------------------------------------------
+
+ID -> 999
+Tytuł -> Schindler's List
+Reżyser -> Steven Spielberg
+Rok -> 1993
+Gatunek -> Drama
+Status -> watched
+Ocena -> 10
+Opis -> A story of hope during the Holocaust.
+Komentarze -> 
+Historia oglądania -> 
+  - 2023-04-19 00:00:00
+------------------------------------------------------------
+
+ID -> 212
+Tytuł -> Mad Max: Fury Road
+Reżyser -> George Miller
+Rok -> 2015
+Gatunek -> Action
+Status -> watched
+Ocena -> 8
+Opis -> Post-apocalyptic action with high-speed chases.
+Komentarze -> 
+Historia oglądania -> 
+  - 2022-06-12 00:00:00
+------------------------------------------------------------
+
